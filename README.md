@@ -8,6 +8,21 @@ Server site link: https://morning-coast-96153.herokuapp.com/
 
 We are enjoy to have successfully completed this wonderful project with a team of four members.
 
+## Features
+```bash
+Authenticated login-registration system with firebase.
+```
+
+```bash
+After login the user will see the profile photo, name and a logout button..
+
+```
+
+```bash
+The service details page is private route protected, so the user must first log
+in order to access it.
+```
+
 ## What we do in this project
 <b><blockquote> Programming Technology</blockquote></b>
 <li>React</li>
